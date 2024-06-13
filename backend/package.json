@@ -1,0 +1,11 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend of E-Commerce App (Postgres and Express JS)",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Asmerom Habteab",
+  "license": "ISC"
+}
